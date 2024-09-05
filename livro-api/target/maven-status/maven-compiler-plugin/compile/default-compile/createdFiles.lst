@@ -1,0 +1,10 @@
+com\joao\book\assembler\LivroMapperImpl.class
+com\joao\book\exception\GlobalExceptionHandler.class
+com\joao\book\model\LivroEntity.class
+com\joao\global\util\ValidateUtil.class
+com\joao\book\LivroController.class
+com\joao\book\assembler\LivroMapper.class
+com\joao\book\model\LivroResource.class
+com\joao\book\LivroApplication.class
+com\joao\book\repository\LivroRepository.class
+com\joao\book\service\LivroService.class
