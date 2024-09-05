@@ -30,7 +30,7 @@
 <h2>Clonando projeto</h2>
 
 ```bash
-git clone livro-api
+git clone https://github.com/joao-vmv07/livro-api.git
 ```
 
 <h2>Bash/Terminal</h2>
