@@ -16,7 +16,7 @@
 
 - Java
 - Spring Boot
-- Data Base H2
+- JPA e Data Base H2
 - Maven
 - JUnit
 
